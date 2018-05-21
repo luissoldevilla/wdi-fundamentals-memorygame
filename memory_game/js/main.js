@@ -1,11 +1,4 @@
 console.log("Up and running!");
-console.log("")
-// var cardOne = "queen";
-// var cardTwo = "king";
-// var cardThree = "queen";
-// var cardFour = "king";
-// console.log("User flipped " + cardOne);
-// console.log("User flipped " + cardTwo);
 
 var cards = ["queen", "king", "queen", "king"];
 
